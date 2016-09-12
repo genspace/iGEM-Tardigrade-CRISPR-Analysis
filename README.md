@@ -1,5 +1,7 @@
 # Hypsibius Dujardini Tardigrade genome
 
+Tardigrade genome data found [here](http://badger.bio.ed.ac.uk/H_dujardini/home/download)
+
 ## Target Knockouts
 
 ### Actin-1 Gene
