@@ -10,6 +10,8 @@ Hd-act-1 GenBank accession number: [CK326228](https://www.ncbi.nlm.nih.gov/nuces
 
 Found 745 bp interrupted by introns within [scaffold 209](nHd.2.3.scaf00209) of the [tardigrade genome](http://badger.bio.ed.ac.uk/H_dujardini/fileDownload/zip_download?fileName=nHd.2.3.abv500.fna). 
 
+[Scaffold 209](nHd.2.3.scaf00209) has been saved as its own file for convenience.
+
 > Introns denoted by indent
 
 AAA
@@ -37,8 +39,6 @@ ACAGCTTCGTCACAAC
 >CGG TGC GTG ACA TAG GCC
 
 GCT
-
-[Scaffold 209](nHd.2.3.scaf00209) has been saved as its own file for convenience.
 
 ### Mago Nashi Gene (incomplete)
 
