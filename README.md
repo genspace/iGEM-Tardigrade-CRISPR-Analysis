@@ -10,6 +10,8 @@ Hd-act-1 GenBank accession number: [CK326228](https://www.ncbi.nlm.nih.gov/nuces
 
 Found 745 bp interrupted by introns within [scaffold 209](nHd.2.3.scaf00209) of the [tardigrade genome](http://badger.bio.ed.ac.uk/H_dujardini/fileDownload/zip_download?fileName=nHd.2.3.abv500.fna). 
 
+> Introns denoted by indent
+
 AAA
 
 >TGGTTTTGTGAACTCTCCGCCAGAGCCGGT
@@ -32,7 +34,7 @@ ATCATGTTCGAGACATTCAACACCCCCGCCATGTACGTCGCGATTCAGGCTGTGCTCTCCCTGTACGCGTCCGGTCGTAC
 
 ACAGCTTCGTCACAAC
 
->CGGTGCGTGACATAGGCC
+>CGG TGC GTG ACA TAG GCC
 
 GCT
 
@@ -46,7 +48,7 @@ Found the following a 508 bp out of the 586 bp of this gene within [scaffold 20]
 
 AGGAAAACGAAAATGACGGAGGACCGTTTCTACGTGCGATACTACGTCGGCCATAAAGGCAAGTTCGGGCATGAATTTTTGGAATTCGAATTTCGCCCGGACGGTCGCCTGCGTTACGCCAACAATTCCAACTACAAGAACGACACGATGATCCGCAAGGAGGTGGTCGTCCATCCGGCTATCTTGGAAGAGGTGAAGCGCATCATTCAGGACAGTGAGATTCTCCGGGAGAACGACGCCAAGTGGCCGCAGCCGGACCGCGTGGGCCGGCAGGAGTTAGAGATTCTGCTGGACGACGAGCACATCTCCTTCAACACGGGAAAGATCGGCTCGCTGATGGACGTCAACAACAGCCCCGATCCAGAAGGTCTGCGTTGCTTCTACTACCTCGTGCAGGATCTCAAGTGTCTCGTCTTCTCCCTCATTGCGCTGCACTTTAAAATCAAGCCGATTTGAACGCTTGTAATCAACCAATCAAGCGC
 
-`T`
+>T
 
 AAGATTTGCACTAGCACCCTCGTCGAC
 
@@ -65,7 +67,7 @@ Running this:
 
 `ngg2 --outputFile pam_sites.csv  nHd.2.3.abv500.fna`
 
-Produced a file [pam_site.csv](pam_sites.csv) of all possible PAM sites within the `nHd.2.3.abv500.fna` genome as well as the following output:
+Produced a file [pam_site.csv](pam_sites.csv) of all possible PAM sites within the [nHd.2.3.abv500.fna](http://badger.bio.ed.ac.uk/H_dujardini/fileDownload/zip_download?fileName=nHd.2.3.abv500.fna) genome as well as the following output:
 
 ```
 2016-09-11 15:00:50,294 - ngg2 - INFO - ngg2 vv1.3.0
