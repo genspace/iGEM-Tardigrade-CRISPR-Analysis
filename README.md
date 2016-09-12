@@ -58,7 +58,7 @@ Note `T` should actually be `G` according to [Hd-mag-1.fa](Hd-mag-1.fa) file, th
 
 ## Methodology
 
-Please see [iGEM_Tardigrage CRISPR Analysis notebook](iGEM_Tardigrage_CRISPR_Analysis.ipynb) for gRNA identification.
+Please see [iGEM Tardigrade CRISPR Analysis](iGEM_Tardigrade_CRISPR_Analysis.ipynb) notebook for gRNA identification.
 
 ### ngg2 
 The `ngg2` [python script](https://github.com/RobersonLab/ngg2) produced by UW's [Roberson Lab](http://www.robersonlab.org/) was used for identifying all unique PAM sites within the Hypsibius Dujardini Tardigrade genome.
