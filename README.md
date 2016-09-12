@@ -36,7 +36,7 @@ ACAGCTTCGTCACAAC
 
 GCT
 
-[Scaffold 209](nHd.2.3.scaf000209) has been saved as its own file for convenience.
+[Scaffold 209](nHd.2.3.scaf00209) has been saved as its own file for convenience.
 
 ### Mago Nashi Gene (incomplete)
 
@@ -84,7 +84,7 @@ Only unique sites: No
 Processes: 1
 ```
 
-### ~CRISPR Seek~
+### ~~CRISPR Seek~~
 
 [CRISPRseek Documentation](https://www.bioconductor.org/packages/devel/bioc/vignettes/CRISPRseek/inst/doc/CRISPRseek.pdf)
 
